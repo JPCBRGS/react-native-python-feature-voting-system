@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Node/React Native
+node_modules/
+.expo/
+.vscode/
+
+# Database
+features.db
+
+# Misc
+.DS_Store
+.env
